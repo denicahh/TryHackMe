@@ -1,6 +1,6 @@
 | Section Status | Section Name             | Room Status | Room Name                     |
 |-------------------|--------------------------|-------------|-------------------------------|
-|       ✅         | Cyber Defence Frameworks | ✅         | Junior Security Analyst Intro |
+|       ✅         | [Cyber Defence Frameworks](https://github.com/denicahh/TryHackMe/blob/main/SOC%20Level%201/Cyber%20Defence%20Frameworks.md) | ✅         | Junior Security Analyst Intro |
 | |  | ✅ | Pyramid of Pain |
 | |  | ✅ | Cyber Kill Chain |
 | |  | ✅ | Unified Kill Chain |
