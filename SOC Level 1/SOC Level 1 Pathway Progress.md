@@ -6,7 +6,7 @@
 | |  | ✅ | Unified Kill Chain |
 | |  | ✅ | Diamond Model |
 | |  | ✅ | Mitre |
-|       ✅         | (Cyber Threat Intelligence)[https://github.com/denicahh/TryHackMe/blob/main/SOC%20Level%201/Cyber%20Threat%20Intelligence.md] | ✅         | Intro to Cyber Threat Intel |
+|       ✅         | [Cyber Threat Intelligence](https://github.com/denicahh/TryHackMe/blob/main/SOC%20Level%201/Cyber%20Threat%20Intelligence.md) | ✅         | Intro to Cyber Threat Intel |
 | |  | 🔲 | Threat Intelligence Tools |
 | |  | 🔲 | Yara |
 | |  | 🔲 | OpenCTI |
